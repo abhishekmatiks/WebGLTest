@@ -1,4 +1,3 @@
-// skia experimental
 import React, { useState, useEffect } from 'react';
 import { View, Dimensions, TouchableOpacity, Text as RNText } from 'react-native';
 import { GestureHandlerRootView, Gesture, GestureDetector } from 'react-native-gesture-handler';
